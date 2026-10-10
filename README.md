@@ -1,62 +1,51 @@
 Hi, I'm Sidratul Muntaha 👋
 
-Flutter Developer | CSE Student
+💻 Flutter Developer | Computer Science & Technology Student
 
-I'm a Computer Science and Technology student passionate about building mobile applications with Flutter and Dart.
+Welcome to my GitHub profile! I'm passionate about mobile app development and learning how to build useful applications with Flutter and Dart.
 
-📱 Currently learning Flutter app development
+🔭 Currently working on: Shop Manager
 
-💻 Building real-world projects
+🌱 Currently learning: Flutter & Dart
 
-🛍️ Working on Shop Manager
+💡 Interested in: Mobile App Development and Software Engineering
 
-🌱 Improving my problem-solving and programming skills
+🎯 My Goal: Become a Professional Software Engineer
 
-🎯 Goal: Become a professional Software Engineer
+📍 From: Rangpur, Bangladesh
 
-Hi, I'm Sidratul Muntaha 👋
+🛠️ Tech Stack
 
-Flutter Developer | CSE Student
-
-I'm a Computer Science and Technology student passionate about building mobile applications with Flutter and Dart.
-
-📱 Currently learning Flutter app development
-
-💻 Building real-world projects
-
-🛍️ Working on Shop Manager
-
-🌱 Improving my problem-solving and programming skills
-
-🎯 Goal: Become a professional Software Engineer
-
-￼ ￼ ￼ ￼ ￼ ￼
+￼ ￼ ￼ ￼ ￼ ￼ 
 
 🚀 Featured Project
 
-Shop Manager
+🛍️ Shop Manager
 
-A Flutter application designed to help small shop owners manage products and organize their shop operations digitally.
+A Flutter application designed to help small shop owners manage products and organize shop operations digitally.
 
-📫 Connect With Me
+Planned features:
 
-GitHub: @sidratulmuntaha143
+Product management
 
-⭐ Always learning, building, and improving.
-Compose
-Write to S M Soma
+Product categories and prices
 
+Inventory overview
 
-🚀 Featured Project
+Sales and expense tracking
 
-Shop Manager
+Project is under development. Features listed here are planned and may not all be implemented yet.
 
-A Flutter application designed to help small shop owners manage products and organize their shop operations digitally.
+📊 GitHub Stats
 
-📫 Connect With Me
+￼ 
 
-GitHub: @sidratulmuntaha143
+￼ 
 
-⭐ Always learning, building, and improving.
+🌱 My Journey
+
+I'm continuously learning, building projects, and improving my programming skills one step at a time.
+
+✨ Learn • Build • Improve ✨
 Compose
 Write to S M Soma
