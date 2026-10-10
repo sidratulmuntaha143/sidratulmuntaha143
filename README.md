@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Sidratul Muntaha 👋
 
-<!--
-**sidratulmuntaha143/sidratulmuntaha143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science and Technology student passionate about building mobile applications with Flutter and Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently learning Flutter app development
+
+💻 Building real-world projects
+
+🛍️ Working on Shop Manager
+
+🌱 Improving my problem-solving and programming skills
+
+🎯 Goal: Become a professional Software Engineer
+
+🛠️ Tech Stack
+
+Languages: Dart
+
+Framework: Flutter
+
+Tools: Git, GitHub, Android Studio, VS Code
+
+🚀 Featured Project
+
+Shop Manager
+
+A Flutter application designed to help small shop owners manage products and organize their shop operations digitally.
+
+📫 Connect With Me
+
+GitHub: @sidratulmuntaha143
+
+⭐ Always learning, building, and improving.
+Compose
+Write to S M Soma
