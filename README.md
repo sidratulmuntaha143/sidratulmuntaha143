@@ -16,7 +16,10 @@ Welcome to my GitHub profile! I'm passionate about mobile app development and le
 
 🛠️ Tech Stack
 
-￼
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Compose
+Write to S M Soma
+
 
 🚀 Featured Project
 
