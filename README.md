@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about mobile app development and le
 
 🛠️ Tech Stack
 
-￼ ￼ ￼ ￼ ￼ ￼ 
+￼
 
 🚀 Featured Project
 
